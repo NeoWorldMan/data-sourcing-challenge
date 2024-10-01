@@ -10,9 +10,9 @@ This project retrieves movie data from two sources: The New York Times API and T
 
 ## Contents
 
-### Data Sources:**
+### Data Sources:
 	*	The primary data sources are The New York Times API and The Movie Database (TMDb) API. These APIs provide detailed information about various movies, including titles, genres, keywords, critic reviews, and more.
-### Main Functions and Code:**
+### Main Functions and Code:
 	*	The notebook includes the following main functions:
 	*	Functions to retrieve movie reviews and ratings using The New York Times API.
 	*	extract_keywords: Extracts relevant ‘name’ and ‘value’ data from the “keywords” column in the movie dataset using data from TMDb.
