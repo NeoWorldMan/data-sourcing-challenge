@@ -20,7 +20,7 @@ This project retrieves movie data from two sources: The New York Times API and T
 
 ## Methodology
 
-The notebook follows a structured process where it first connects to The New York Times API and The Movie Database (TMDb) API to retrieve movie data. The data is then processed and analyzed to identify patterns, trends, and insights, such as common genres, popular keywords, critic ratings, and movie reviews. Various Python libraries are used for handling data retrieval, processing, and visualization.
+The notebook follows a structured process where it first connects to The New York Times API and The Movie Database (TMDb) API to retrieve movie data. The data is then cleaned up, merged and exported to a CSV file. Various Python libraries are used for handling data retrieval and processing.
 
 ## Step-by-Step Process
 
